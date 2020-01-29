@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "273655376065",
+    "firebase_url": "https://queue-ppam.firebaseio.com",
+    "project_id": "queue-ppam",
+    "storage_bucket": "queue-ppam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273655376065:android:f475b078105e7788a20c40",
+        "android_client_info": {
+          "package_name": "com.queue.queue_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273655376065-bdcglb9hm8qtps9h84a4ogcu9pihptau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1WjIjCO8MXLlL_ocMu8-s1s8WQ1_hfnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273655376065-bdcglb9hm8qtps9h84a4ogcu9pihptau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
