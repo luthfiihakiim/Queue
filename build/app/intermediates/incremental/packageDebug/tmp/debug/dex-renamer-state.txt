@@ -1,0 +1,4 @@
+#Thu Jan 30 01:18:48 ICT 2020
+base.0=D\:\\Luthfi\\ITB\\Semester 6\\Pengembangan Perangkat Aplikasi Mobile\\apps\\queue_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
